@@ -1,5 +1,3 @@
-![Banner](./path-to-your-banner-image.png)
-
  Front-end Developer | Software Engineer
 
 ### Tools & Technologies
