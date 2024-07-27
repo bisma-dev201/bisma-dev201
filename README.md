@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/YourUsername/YourRepository/main/your-banner.png)
+![Banner](https://www.canva.com/design/DAGMIHYeTSs/jnafCxhQfwCHD7A6zr7-Sw/view?utm_content=DAGMIHYeTSs&utm_campaign=designshare&utm_medium=link&utm_source=editor))
 
 Front-end Developer | Software Engineer
 
