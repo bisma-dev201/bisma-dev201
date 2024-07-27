@@ -1,4 +1,4 @@
-![Banner](https://link-to-your-banner-image)
+![Banner](./path-to-your-banner-image.png)
 
  Front-end Developer | Software Engineer
 
