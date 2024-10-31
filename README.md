@@ -18,4 +18,4 @@ Hello 👋, I'm Bisma Javed, a software engineer, passionate about innovative so
 
 **Programming Languages:** JavaScript
 
-**Front-End Development:** HTML, CSS, Bootstrap, Tailwind, React.js, Redux, Next.js, Git, Figma
+**Front-End Development:** HTML, CSS, Bootstrap, Tailwind, React.js, Redux, Next.js
