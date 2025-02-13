@@ -1,12 +1,7 @@
 ## Hi there, I'm Bisma! 👋  
-**I'm a Software Engineer** passionate about building **scalable, efficient, and user-friendly** applications.  
-
----
 
 ## 💡 About Me  
-I'm deeply interested in **MERN stack development** and love creating seamless digital experiences. My focus is on **React.js, Next.js, Node.js, and Express.js**, ensuring clean code and performance-driven applications. I'm always exploring new technologies to enhance my skill set.  
-
----
+Software Engineer specializing in **MERN stack development**, focused on building scalable and efficient web applications. Experienced in React.js, Next.js, Node.js, and Express.js, with a strong understanding of front-end and back-end technologies. Always open to learning and adapting to new tools and frameworks. 
 
 ## 🛠 Tools & Technologies  
 
@@ -27,13 +22,9 @@ I'm deeply interested in **MERN stack development** and love creating seamless d
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>  
 
----
-
 ## 📫 Let's Connect  
 📌 **LinkedIn:** [Muhammad Asad](https://www.linkedin.com/in/muhammad-asad-733375254/)  
-📧 **Email:** meerasad636@gmail.com  
-
----
+📧 **Email:** bismajd201@gmail.com  
 
 ## ⚡ Fun Fact  
 I love **exploring new trails** whenever I get the chance! Feel free to connect with me to discuss technology, share ideas, or collaborate on exciting projects. 🚀  
