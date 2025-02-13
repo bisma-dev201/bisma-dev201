@@ -3,6 +3,7 @@
 ## 💡 About Me  
 Software Engineer specializing in **MERN stack development**, focused on building scalable and efficient web applications. Experienced in React.js, Next.js, Node.js, and Express.js, with a strong understanding of front-end and back-end technologies. Always open to learning and adapting to new tools and frameworks. 
 
+
 ## 🛠 Tools & Technologies  
 
 <p align="left">
@@ -22,9 +23,12 @@ Software Engineer specializing in **MERN stack development**, focused on buildin
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>  
 
+
 ## 📫 Let's Connect  
-📌 **LinkedIn:** https://www.linkedin.com/in/bisma-javed-377301265  
-📧 **Email:** bismajd201@gmail.com  
+LinkedIn: https://www.linkedin.com/in/bisma-javed-377301265  
+Gmail: bismajd201@gmail.com  
+
 
 ## ⚡ Fun Fact  
-I love **exploring new trails** whenever I get the chance! Feel free to connect with me to discuss technology, share ideas, or collaborate on exciting projects. 🚀  
+I have a passion for **discovering new paths** whenever I get the chance!  
+Feel free to connect to discuss technology, exchange ideas, or collaborate on exciting projects!
