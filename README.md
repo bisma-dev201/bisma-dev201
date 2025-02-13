@@ -23,7 +23,7 @@ Software Engineer specializing in **MERN stack development**, focused on buildin
 </p>  
 
 ## 📫 Let's Connect  
-📌 **LinkedIn:** [Muhammad Asad](https://www.linkedin.com/in/muhammad-asad-733375254/)  
+📌 **LinkedIn:** https://www.linkedin.com/in/bisma-javed-377301265  
 📧 **Email:** bismajd201@gmail.com  
 
 ## ⚡ Fun Fact  
