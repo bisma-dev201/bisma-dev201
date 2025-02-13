@@ -1,5 +1,3 @@
-## Hi there, I'm Bisma! 👋  
-
 ## 💡 About Me  
 Software Engineer specializing in **MERN stack development**, focused on building scalable and efficient web applications. Experienced in React.js, Next.js, Node.js, and Express.js, with a strong understanding of front-end and back-end technologies. Always open to learning and adapting to new tools and frameworks. 
 
